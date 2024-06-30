@@ -1,6 +1,4 @@
-# Project 4 - Decision Trees
-
-## Student: Luca Dias Naja - 21953242
+# Project - Decision Trees
 
 ## Summary
 
