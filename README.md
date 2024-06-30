@@ -58,27 +58,27 @@ This repository contains the code and analysis for a project which involves buil
 ## Figures and Graphs
 
 #### Figure 1. Comparison of Errors by Configuration
-![Figure 1](figura_1.png)
+![Figure 1](Images/Comparison_Error.png)
 
 This bar chart compares the mean absolute error (MAE) and mean squared error (MSE) for each tested Random Forest configuration. Configurations 1, 2, 4, and 5 had the lowest MAE and MSE values, indicating better predictive performance.
 
 #### Figure 2. Error Convergence Curves
-![Figure 2](figura_2.png)
+![Figure 2](Images/Convergence_Error_epochs.png)
 
 This graph shows the evolution of errors (MAE and MSE) over epochs for each Random Forest configuration. Configurations like Config 1, Config 2, Config 4, and Config 5 show rapid stabilization of errors, indicating good convergence.
 
 #### Figure 3. Boxplot of Mean Absolute Errors (MAE)
-![Figure 3](figura_3.png)
+![Figure 3](Images/Boxplot_MAE.png)
 
 The boxplot shows the distribution of mean absolute errors (MAE) for each configuration. Configurations 1, 2, 4, and 5 have lower variability and lower median MAE values, indicating consistent and accurate predictions.
 
 #### Figure 4. Boxplot of Mean Squared Errors (MSE)
-![Figure 4](figura_4.png)
+![Figure 4](Images/Boxplott_MSE.png)
 
 The boxplot shows the distribution of mean squared errors (MSE) for each configuration. Configurations 1, 2, 4, and 5 have lower variability and lower median MSE values, indicating more precise and stable predictions.
 
 #### Figure 5. Variable Importance
-![Figure 5](figura_5.png)
+![Figure 5](Images/Feacture_Importances.png)
 
 The variable `temp_1` (maximum temperature one day before) has the highest relative importance in the model, confirming that recent temperature is a crucial predictor for the next day's maximum temperature. The `average` (historical average of temperatures) is also significant, reflecting long-term climatic patterns.
 
