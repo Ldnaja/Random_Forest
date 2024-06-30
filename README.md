@@ -99,9 +99,3 @@ The results demonstrate the effectiveness of the Random Forest model in predicti
 - Breiman, Leo. "Random Forests." Machine Learning 45.1 (2001): 5-32.
 - Liaw, Andy, and Matthew Wiener. "Classification and Regression by randomForest." R News 2.3 (2002): 18-22.
 - Pedregosa, Fabian, et al. "Scikit-learn: Machine Learning in Python." Journal of Machine Learning Research 12 (2011): 2825-2830.
-
-## Appendix: Program Listing
-
-The following link directs to the Colab notebook where the Random Forest was developed along with its results and graphs:
-
-[Código: Trabalho4_RandomForest.ipynb](https://colab.research.google.com/drive/1G_oPN1kYTvCkOSIdl4GMu3bh-PYhKx1I?usp=sharing)
